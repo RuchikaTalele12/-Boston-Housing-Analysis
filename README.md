@@ -76,7 +76,5 @@ python boston_housing_analysis.py
 
 * Project developed by Rucha
 
-
-
 * [scikit-learn documentation](https://scikit-learn.org/stable/)
 * [Boston Housing Dataset - OpenML](https://www.openml.org/d/531)
