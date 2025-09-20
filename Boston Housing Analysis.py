@@ -1,4 +1,4 @@
-# Boston Housing - improved end-to-end project
+# Boston Housing
 # Requirements: scikit-learn, pandas, numpy, matplotlib, seaborn, joblib
 # pip install scikit-learn pandas matplotlib seaborn joblib
 
