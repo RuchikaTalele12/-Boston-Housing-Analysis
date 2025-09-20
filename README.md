@@ -74,9 +74,9 @@ python boston_housing_analysis.py
 
 ## Author
 
-* Project developed by \[Your Name].
+* Project developed by Rucha
 
-## References
+
 
 * [scikit-learn documentation](https://scikit-learn.org/stable/)
 * [Boston Housing Dataset - OpenML](https://www.openml.org/d/531)
